@@ -132,7 +132,7 @@ After the loop ends, result will hold the factorial of n. Return result.
 
 Construct a JavaScript code to generate ‘N’ prime numbers.
 
-# DESIGN STEPS: 9(c)
+# DESIGN STEPS: 
 
 ## Step 1:
 
