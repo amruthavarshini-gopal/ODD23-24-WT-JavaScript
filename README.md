@@ -12,7 +12,7 @@ Department: AIDS
 
 Create a form with java script code to calculate electricity bill.
 
-# DESIGN STEPS: 9(a)
+# DESIGN STEPS: 
 
 ## Step 1:
 
